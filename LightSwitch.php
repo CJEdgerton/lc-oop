@@ -10,11 +10,11 @@ class LightSwitch {
 
 	}
 
-	protected function connect() {
+	private function connect() {
 
 	}
 
-	public function activate() {
+	private function activate() {
 
 	}
 
